@@ -5,4 +5,5 @@ Fullstack Instant Search
 ## Tech Stack
 
 - React.js
-- Node.js
+- Node.js + Express
+- CORS
